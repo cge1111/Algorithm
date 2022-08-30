@@ -5,8 +5,6 @@
 1. [Array(배열)](https://buttercup-lung-903.notion.site/e5cf0feeade84965bfd122cf49f8c4f3)
 
 
-
-
 ## Algorithm (알고리즘)
 
 1. [Stack/Queue(스택/큐)](https://buttercup-lung-903.notion.site/e5cf0feeade84965bfd122cf49f8c4f3)
