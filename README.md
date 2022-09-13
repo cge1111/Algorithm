@@ -12,3 +12,4 @@
 3. [BFS(너비 우선 탐색) & DFS(깊이 우선 탐색)](https://buttercup-lung-903.notion.site/BFS-DFS-26409b35eda343f19446706a97a58fe0)
 4. [Greedy(탐욕)](https://buttercup-lung-903.notion.site/Greedy-db1cf2ce9ef640f7b793874487afafaa)
 5. [Search(탐색)](https://buttercup-lung-903.notion.site/f4e47b3f18bf4671a1c15845df49d39b)
+6. [Dijkstra(그래프 고급 탐색)](https://buttercup-lung-903.notion.site/5168da32751a427eacd26842f66619b4)
