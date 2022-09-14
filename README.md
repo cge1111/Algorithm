@@ -3,7 +3,7 @@
 ## Data structure(자료구조)
 
 1. [Array(배열)](https://buttercup-lung-903.notion.site/e5cf0feeade84965bfd122cf49f8c4f3)
-2. [Stack/Queue(스택/큐)](https://buttercup-lung-903.notion.site/Stack-Queue-a7a157118ea74151a30145f8c7e26a62)
+2. [Stack/Queue(스택/큐)](https://buttercup-lung-903.notion.site/Stack-Queue-54e46d77c4464e04bae96de10b97eb57)
 
 ## Algorithm (알고리즘)
 
