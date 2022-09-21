@@ -4,7 +4,8 @@
 
 1. [Array(배열)](https://buttercup-lung-903.notion.site/e5cf0feeade84965bfd122cf49f8c4f3)
 2. [Stack/Queue(스택/큐)](https://buttercup-lung-903.notion.site/Stack-Queue-54e46d77c4464e04bae96de10b97eb57)
-3. [Tree(트리)](https://buttercup-lung-903.notion.site/Tree-79b18cd471384da6917a365d6b43ef4c)
+3. [Linked list(링크드리스트)](https://buttercup-lung-903.notion.site/Linked-List-7aa373a5d0834f74a0de5914ff3fd73c)
+4. [Tree(트리)](https://buttercup-lung-903.notion.site/Tree-79b18cd471384da6917a365d6b43ef4c)
 
 ## Algorithm (알고리즘)
 
